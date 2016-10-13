@@ -25,7 +25,7 @@
     + Just like cutting already created segment into smaller pieces
   + How to translate?
     + Using hardware (so that it would be fast)
-      + Memory Management Unit (MMU)
+      + __Memory Management Unit (MMU)__
         + MMU used to sit between the CPU and bus, but now they are typically integrated to CPU
       + Page table too big
         + So it would be stored in memory (not fast enough)
